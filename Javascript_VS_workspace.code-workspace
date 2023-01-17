@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Users/GauravJain(DPWHYD)/OneDrive - DP World/Desktop/JavaScript/Javascript"
+		},
+		{
+			"path": "../../../../Users/GauravJain(DPWHYD)/OneDrive - DP World/Desktop/JavaScript"
+		}
+	],
+	"settings": {
+		"editor.mouseWheelZoom": true,
+		"editor.wordWrap": "on",
+		"liveServer.settings.multiRootWorkspaceName": "Javascript"
+	}
+}
