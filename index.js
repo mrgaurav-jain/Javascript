@@ -11,7 +11,9 @@ let name ='gaurav';//string
             //string, boolean, number, undefined
 let age=30;
 let isapproved=false;//boolean
-let false=undefined;
+//let false=undefined;
 let color=null; 
 
 //Dynamic Typing type of variables can be changed in future
+
+        
